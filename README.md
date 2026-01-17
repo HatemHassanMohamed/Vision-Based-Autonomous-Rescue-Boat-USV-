@@ -101,6 +101,10 @@ This significantly reduces noise and estimation uncertainty, resulting in smooth
 - `Ki = 2`
 - `Kd = 0.2`
 
+<img width="509" height="251" alt="image54" src="https://github.com/user-attachments/assets/f1bae4bd-8769-4421-88e2-7efd623355f9" />
+
+<img width="774" height="322" alt="image88" src="https://github.com/user-attachments/assets/9c2a3ede-d667-4b18-b405-ee7facc8ad34" />
+
 ---
 
 ## 🔄 System Flow
@@ -120,6 +124,7 @@ This significantly reduces noise and estimation uncertainty, resulting in smooth
 4. **Act**
    - Adjust motor speeds using PID output
    - Perform differential steering
+
 
 ---
 
