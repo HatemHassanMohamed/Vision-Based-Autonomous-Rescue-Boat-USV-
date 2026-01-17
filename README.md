@@ -8,8 +8,6 @@ The platform is designed to autonomously navigate toward a target location, dete
 The system is built around a **stable pontoon hull**, ensuring high buoyancy and minimal roll disturbance, while a sensor fusion–based navigation stack provides reliable guidance and control.
 
 <img width="1472" height="704" alt="Gemini_Generated_Image_uddxu9uddxu9uddx" src="https://github.com/user-attachments/assets/180f6d22-ea34-4e2f-972f-a62a084719fc" />
-<img width="768" height="411" alt="Screenshot from 2026-01-17 02-14-45" src="https://github.com/user-attachments/assets/0950d4de-eb22-43b0-96cd-e2674272344b" />
-
 
 ---
 
